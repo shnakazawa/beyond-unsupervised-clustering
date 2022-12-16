@@ -3,7 +3,7 @@
 
 ## Objective
 
-This repository stores [a notebook](Beyond_Unsupervised_Clustering.ipynb) containing codes introduced in [this article (written in Japanese)]() entitled **"Beyond Unsupervised Clustering: Dimensionality Reduction and Quantitative Analysis."**
+This repository stores [a notebook](Beyond_Unsupervised_Clustering.ipynb) containing codes introduced in [this article (written in Japanese)](https://zenn.dev/aidemy/articles/f1d3ba3c98b708) entitled **"Beyond Unsupervised Clustering: Dimensionality Reduction and Quantitative Analysis."**
 
 Althoug the article is in Japanese, [the notebook](Beyond_Unsupervised_Clustering.ipynb) provides an **English tutorial**.
 
